@@ -1,0 +1,9 @@
+# leftover files from the Vi editor
+*~
+.*sw?
+
+# Python compiled bytecode
+__pycache__
+
+# the Python virtual environment
+venv
