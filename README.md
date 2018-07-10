@@ -50,5 +50,6 @@ MIT
 [portal]: https://dna.cchmc.org/www/main.php
 [requests]: http://docs.python-requests.org/en/latest/
 [lxml]: http://lxml.de/
+[pubmed]: https://www.ncbi.nlm.nih.gov/pubmed
 [pipinstall]: https://pip.pypa.io/en/stable/installing/
 [pippkg]: https://pkgs.org/download/python-pip
