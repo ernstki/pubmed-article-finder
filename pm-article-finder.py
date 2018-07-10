@@ -26,7 +26,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     # take all terms and join them with spaces, then URL-encode that string
-    terms = urllib.parse.quote(' '.join(args.terms)
+    terms = urllib.parse.quote(' '.join(args.terms))
     query_url = NCBI_BASE_URL + '/' + NCBI_SEARCH_PATH + terms
 
     with requests.Session() as s:
