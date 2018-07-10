@@ -34,7 +34,7 @@ if __name__ == '__main__':
         assert response.ok
 
         # suppress this in the output by redirecting stderr to /dev/null,
-        # e.g., './notchfinder.py notch 2>/dev/null'
+        # e.g., './pm-article-finder.py notch 2>/dev/null'
         print('# ' + query_url, file=sys.stderr)
 
         # see: https://stackoverflow.com/a/15622069
