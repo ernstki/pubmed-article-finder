@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ./pm-article-finder notch breast cancer
 ```
 
-## Authors / contributors
+## Authors / Contributors
 
 | Author name          | Email
 |----------------------|----------------------------
@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 ## Licence
 
-MIT
+[MIT](./LICENSE.txt)
 
 
 [portal]: https://dna.cchmc.org/www/main.php
