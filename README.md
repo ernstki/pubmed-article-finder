@@ -39,8 +39,8 @@ pip install -r requirements.txt
 
 | Author name          | Email
 |----------------------|----------------------------
-| David Cheung         | kevin.ernst -at- cchmc.org
-| Kevin Ernst          | david.cheung -at- cchmc.org
+| Kevin Ernst          | ernstki -at- mail.uc.edu
+| David Cheung         | david.cheung -at- cchmc.org
 
 ## Licence
 
